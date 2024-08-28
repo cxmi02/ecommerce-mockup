@@ -5,6 +5,7 @@ import SeasonCollection from "@/components/seasonCollection";
 import FeatureProducts from "@/components/featureProducts";
 import Disconts from "@/components/discounts";
 import Information from "@/components/information";
+import Footer from "@/components/footer";
 
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
       <FeatureProducts />
       <Disconts />
       <Information />
+      <Footer />
     </>
   );
 }

@@ -13,7 +13,7 @@ import BrandFour from "@/public/brand_4.png";
 import BrandFive from "@/public/brand_5.png";
 import BrandSix from "@/public/brand_6.png";
 
-export default function Header() {
+export default function Information() {
   return (
     <div>
       <div className="px-16 py-20 flex flex-wrap justify-between">
