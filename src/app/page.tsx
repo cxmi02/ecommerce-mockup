@@ -1,9 +1,9 @@
 import Header from "@/components/header";
 import Nav from "@/components/nav";
 import Corousel from "@/components/corousel";
-// import CollectionSection from '../components/CollectionSection';
-// import FeaturedProducts from '../components/FeaturedProducts';
-// import Footer from '../components/Footer';
+import SeasonCollection from "@/components/seasonCollection";
+import FeatureProducts from "@/components/featureProducts";
+import Disconts from "@/components/discounts";
 
 
 export default function Home() {
@@ -12,6 +12,9 @@ export default function Home() {
       <Header />
       <Nav />
       <Corousel />
+      <SeasonCollection />
+      <FeatureProducts />
+      <Disconts />
     </>
   );
 }

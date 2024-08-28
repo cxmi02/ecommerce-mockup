@@ -17,6 +17,12 @@ const config: Config = {
         'custom-gray': '#dfe4d4',
         'custom-light-gray': '#f3f4ef',
         'custom-light-gray2': '#f8f4f4',
+        'custom-product-brown': '#977945',
+        'custom-product-brown-light': '#c8ad7f',
+        'custom-product-pink': '#d966d9',
+        'custom-product-mint-green': '#caffd6',
+        'custom-product-blue-gray': '#a8bcd4',
+        'custom-product-blue-light': '#add8e6',
       },
       spacing: {
         '120': '28rem',
